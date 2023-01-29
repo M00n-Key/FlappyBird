@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Programming\Visual Studio\Gamedev\SFML\FlappyBird\FlappyBird\main.cpp(24,105): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\Gamedev\SFML\FlappyBird\FlappyBird\main.cpp(24,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  FlappyBird.vcxproj -> D:\Programming\Visual Studio\Gamedev\SFML\FlappyBird\x64\Debug\FlappyBird.exe
